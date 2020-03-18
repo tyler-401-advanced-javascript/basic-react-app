@@ -1,0 +1,17 @@
+.Counter {
+  height: 500px;
+  width: 50%;
+  background-color: blanchedalmond;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font: {
+    family: Arial;
+    size: 2em;
+
+  }
+  button {
+    display: block;
+    margin-top: 4em;
+  }
+}
